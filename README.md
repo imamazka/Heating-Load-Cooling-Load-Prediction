@@ -3,6 +3,7 @@ Memprediksi *Heating Load* serta *Cooling Load* pada Suatu Bangunan dengan Delap
 
 Final Project Aljabar Linear Lanjut 2022.
 
+
 Kelompok 3:
 1. Gemilang Bagas Ramadhani (2006535205)
 2. Imam Azka Ramadhan (2006577504)
