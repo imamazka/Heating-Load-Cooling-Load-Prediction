@@ -1,6 +1,7 @@
 # Heating-Load-Cooling-Load-Prediction
-Memprediksi *Heating Load* serta *Cooling Load* pada Suatu Bangunan dengan Delapan Parameter Bentuk Bangunan
-Final Project Aljabar Linear Lanjut 2022
+Memprediksi *Heating Load* serta *Cooling Load* pada Suatu Bangunan dengan Delapan Parameter Bentuk Bangunan.
+
+Final Project Aljabar Linear Lanjut 2022.
 
 Kelompok 3:
 1. Gemilang Bagas Ramadhani (2006535205)
